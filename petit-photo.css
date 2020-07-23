@@ -1,0 +1,47 @@
+.titlu{color: #879783;
+	font-size:80px;
+font-family: 'Dancing Script', cursive;
+text-align:center;
+padding-top: 1 cm;}
+.titlu span {font-size:16px;}
+
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  width: 200px;
+  background-color: ##DBE5DF;
+}
+
+li a {
+  display: block;
+  color: #A3B9AF;
+  padding: 8px 16px;
+  text-decoration:none;
+  font-size:25px;
+font-family: 'Dancing Script', cursive;
+}
+
+/* Change the link color on hover */
+li a:hover {
+  background-color:#A3B9AF;
+  color:  #DBE5DF;
+}
+.active {
+  background-color: #4CAF50;
+  color: white;
+}
+.footer {
+  position: absolute;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  padding: 0,5 rem;
+  background-color: #708862;
+  text-align: center;
+}
+img {width: 850px;
+  height: 425px;
+  opacity: 0.6;
+}

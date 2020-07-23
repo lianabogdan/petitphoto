@@ -1,0 +1,93 @@
+*{margin:0;
+  padding:0}
+
+.container{width:100%;
+           height:555;
+           background:pink;}
+.header{background:#DBE5DF; 
+        width:100%; 
+        height:130px;}
+.titlu{color: #879783;
+	   font-size:80px;
+	   font-family: 'Dancing Script', cursive;
+	   text-align:center;
+	   padding-top: 1 cm;}
+.titlu span {font-size:16px;}
+.main{width:100%;
+      height:425px;
+      background:green;}
+.parte-stanga{background:#DBE5DF; 
+              width:16%; 
+			  height:425px; 
+              float:left;}
+.parte-mijloc{width:68%;
+              height:425px; 
+			  float:left;
+			  background:#DBE5DF;
+			  }
+.parte-dreapta{background:#DBE5DF; 
+              width:16%; 
+			  height:425px; 
+              float:right;}
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  width: 200px;
+  background-color: ##DBE5DF;
+}
+
+li a {
+  display: block;
+  color: #A3B9AF;
+  padding: 8px 16px;
+  text-decoration:none;
+  font-size:25px;
+font-family: 'Dancing Script', cursive;
+}
+
+.poza{height:325px;
+width:280px;
+float:left;
+margin-left:5px;
+margin-top:5px;
+border-radius:18%}
+
+
+
+.biografie{font-size:19px;
+	   font-family: 'Dancing Script', cursive;
+	   color:#879783;
+text-align:center;
+padding:7px;
+}
+
+
+
+
+.poza1{width:100%;
+      height:100%;
+	  margin:auto;
+}
+.poza2{width:100%;
+      height:45%;
+	  margin:auto;
+}
+/* Change the link color on hover */
+li a:hover {
+  background-color:#A3B9AF;
+  color:  #DBE5DF;
+}
+.active {
+  background-color: #4CAF50;
+  color: white;
+}
+.footer {width:100%;
+         height:23px;
+         background:#DBE5DF;
+}
+.footertext{color: #879783;
+	   font-size:10px;
+	   font-family: 'Dancing Script', cursive;
+text-align:center;}
+
